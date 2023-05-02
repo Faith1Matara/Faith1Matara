@@ -22,7 +22,7 @@ Let's build something awesome together!
 - I enjoy writing code, building user interfaces, and creating technical documentation.
 - I have experience in frontend web development using HTML, CSS, and JavaScript.
 - I have experience using various tools and frameworks such as React and Bootstrap.
-- I am proficient in technical writing and creating user manuals, online help systems, and API documentation.
+- I am proficient in technical writing and creating user manuals and online help systems.
 - I have experience working with version control systems such as Git.
 
 ## Tech Stack
@@ -43,8 +43,7 @@ Let's build something awesome together!
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 
-![Faith1Matara's github stats](https://github-readme-stats.vercel.app/api?username=Faith1Matara&count_private=true&show_icons=true&theme=dark&hide_rank=false&include_all_commits=true
-
+![Faith1Matara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faith1Matara&count_private=true&show_icons=true&theme=dark&hide_rank=false&include_all_commits=true)
 
 ### 🏔️ Location
 - 🏢 Living in Nairobi, Kenya
