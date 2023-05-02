@@ -21,7 +21,7 @@ Let's build something awesome together!
 ### Skills and Experience
 - I enjoy writing code, building user interfaces, and creating technical documentation.
 - I have experience in frontend web development using HTML, CSS, and JavaScript.
-- I have experience using various tools and frameworks such as React, Bootstrap, and Vue.js.
+- I have experience using various tools and frameworks such as React and Bootstrap.
 - I am proficient in technical writing and creating user manuals, online help systems, and API documentation.
 - I have experience working with version control systems such as Git.
 
